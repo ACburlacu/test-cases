@@ -50,9 +50,8 @@ Search: `onesie`
 ### Description
 Check if a user sees product suggestions as they type.
 ### Steps to reproduce
-1. Visit https://www2.hm.com/en_us/index.html
-2. Click the "🔍" icon at the top right
-3. Type something and look for any suggestions
+1. Do the first two steps from Case 4
+2. Type something and look for any suggestions
 ### Expected result
 User receives suggestions relevant to the desired item.
 ### Test data
@@ -62,9 +61,8 @@ Search: `lan`
 ### Description
 Check if a user can look for an invalid item.
 ### Steps to reproduce
-1. Visit https://www2.hm.com/en_us/index.html
-2. Click the "🔍" icon at the top right
-3. Type something random in the search box
+1. Do the first two steps from Case 4
+2. Type something random in the search box
 ### Expected result
 User does not see product suggestions.
 ### Test data
