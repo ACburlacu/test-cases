@@ -15,9 +15,8 @@ User must have a valid account.
 ### Description
 Check if a user can log in using invalid credentials.
 ### Steps to reproduce
-1. Visit https://www.udemy.com/
-2. Click on "Login" at the top right
-3. Repeat step 3 from Case 1 using an invalid email
+1. Do the first two steps from Case 1
+2. Repeat step 3 from Case 1 using an invalid email
 ### Expected result
 User does not receive a confirmation email.
 ### Test data
@@ -27,9 +26,8 @@ Email: `example@email.com`
 ### Description
 Check if a user can log in without using credentials.
 ### Steps to reproduce
-1. Visit https://www.udemy.com/
-2. Click "Login" at the top right
-3. Click "Continue with email"
+1. Do the first two steps from Case 1
+2. Click "Continue with email"
 ### Expected result
 User is warned to fill out an email address.
 
